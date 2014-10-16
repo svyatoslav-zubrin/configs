@@ -43,12 +43,13 @@
 		<outline text="Big Nerd Ranch Weblog" title="Big Nerd Ranch Weblog" type="rss" version="RSS" htmlUrl="http://www.bignerdranch.com" xmlUrl="http://weblog.bignerdranch.com/feed/"/>
 		<outline text="brandontreb.com" title="brandontreb.com" type="rss" version="RSS" htmlUrl="http://brandontreb.com" xmlUrl="http://brandontreb.com/feed"/>
 		<outline text="Cocoanetics" title="Cocoanetics" type="rss" version="RSS" htmlUrl="https://www.cocoanetics.com" xmlUrl="https://www.cocoanetics.com/feed/"/>
+		<outline text="Natasha The Robot" title="Natasha The Robot" type="rss" version="RSS" htmlUrl="http://natashatherobot.com" xmlUrl="http://natashatherobot.com/feed/"/>
 		<outline text="NSBlog" title="NSBlog" type="rss" version="RSS" htmlUrl="http://www.mikeash.com/pyblog/" xmlUrl="http://www.mikeash.com/pyblog/rss.py"/>
 		<outline text="NSHipster" title="NSHipster" type="rss" version="RSS" htmlUrl="http://nshipster.com" xmlUrl="http://nshipster.com/feed.xml"/>
+		<outline text="objc.io" title="objc.io" type="rss" version="RSS" htmlUrl="http://www.objc.io" xmlUrl="http://www.objc.io/feed.xml"/>
 		<outline text="Ole Begemann: iOS Development" title="Ole Begemann: iOS Development" type="rss" version="RSS" htmlUrl="http://oleb.net/blog/" xmlUrl="http://oleb.net/feed/"/>
 		<outline text="Swift Blog - Apple Developer" title="Swift Blog - Apple Developer" type="rss" version="RSS" htmlUrl="http://developer.apple.com/swift/blog/" xmlUrl="http://developer.apple.com/swift/blog/news.rss"/>
-		<outline text="objc.io" title="objc.io" type="rss" version="RSS" htmlUrl="http://www.objc.io" xmlUrl="http://www.objc.io/feed.xml"/>
-		<outline text="Natasha The Robot" title="Natasha The Robot" type="rss" version="RSS" htmlUrl="http://natashatherobot.com" xmlUrl="http://natashatherobot.com/feed/"/>
+		<outline text="Cocoa Is My Girlfriend" title="Cocoa Is My Girlfriend" type="rss" version="RSS" htmlUrl="http://www.cimgf.com" xmlUrl="http://www.cimgf.com/feed/"/>
 	</outline>
 	<outline text="ODesk notifications" title="ODesk notifications">
 		<outline text="All ios-iphone-ipad jobs | oDesk.com" title="All ios-iphone-ipad jobs | oDesk.com" type="rss" version="RSS" htmlUrl="https://www.odesk.com/jobs/rss?c1=Software+Development&amp;q=ios-iphone-ipad&amp;sortBy=s_ctime%2Bdesc&amp;c2%5B0%5D=Mobile+Apps&amp;_redirected=" xmlUrl="https://www.odesk.com/jobs/rss?c1=Software+Development&amp;q=ios-iphone-ipad&amp;sortBy=s_ctime%2Bdesc&amp;c2%5B0%5D=Mobile+Apps"/>
